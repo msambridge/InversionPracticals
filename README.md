@@ -1,6 +1,6 @@
 # Inversion Course Practicals
 
-This is a part of the inversion course in ANU. You can either run the notebooks from [Colab](https://colab.research.google.com/) or run them locally in your own machine.
+This is a part of the inversion course. You can either run the notebooks from [Colab](https://colab.research.google.com/) or run them locally in your own machine.
 
 ## Table of contents
 
