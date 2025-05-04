@@ -99,7 +99,7 @@ Open a terminal (or a Cygwin shell for Windows users) and refer to the cheat she
 Type the following in your terminal (or Cygwin shell for Windows users):
 
 ```console
-$ pip install jupyterlab matplotlib pyrf96 seaborn tqdm
+$ pip install jupyterlab matplotlib numpy scipy pyrf96 seaborn tqdm
 ```
 
 </details>
